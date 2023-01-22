@@ -1,6 +1,5 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=averagess&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=averagess&langs_count=5&theme=tokyonight)]()
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averagess)]()
 <!--
 **Averagess/Averagess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
