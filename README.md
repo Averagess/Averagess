@@ -1,6 +1,10 @@
+Mostly spending my time building with nodejs.
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=averagess&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averagess&layout=compact&theme=tokyonight)]()
+
+![Page Views](https://komarev.com/ghpvc/?username=Averagess)
 <!--
 **Averagess/Averagess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
